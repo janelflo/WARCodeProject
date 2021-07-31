@@ -1,0 +1,28 @@
+{
+  "name": "jscodingproject",
+  "version": "1.0.0",
+  "description": "WAR project using OOP in JS",
+  "main": "CodingProjectWeek6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janelflo/WARCodingProject.git"
+  },
+  "keywords": [
+    "WAR",
+    "JavaScript",
+    "OOP"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janelflo/WARCodingProject/issues"
+  },
+  "homepage": "https://github.com/janelflo/WARCodingProject#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.3"
+  }
+}
